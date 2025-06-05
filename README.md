@@ -1,4 +1,4 @@
-# Try Hack Me: Vulnversity – Penetration Testing Walkthroug
+# Try Hack Me: Vulnversity – Penetration Testing Walkthrough
 Tutorial for the vulnversity machine on Hack the Box
 
 Vulnversity is an introductory CTF-style machine hosted on TryHackMe, designed to teach basic Linux enumeration, web application vulnerabilities, and privilege escalation techniques.
